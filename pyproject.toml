@@ -1,0 +1,11 @@
+[project]
+name = "td-minimax-h3-prompt"
+description = "TD MiniMax H3 official-structure prompt generator for ComfyUI."
+version = "2.4.1"
+license = { file = "LICENSE" }
+dependencies = []
+
+[tool.comfy]
+PublisherId = "td"
+DisplayName = "TD_MiniMax_H3_Prompt"
+Icon = ""

@@ -1,5 +1,5 @@
 # TD_MiniMax_H3_Prompt
-
+API_KEY申请地址：https://api.aitudou.net
 用于 ComfyUI 的 TD MiniMax H3 结构提示词增强节点。
 
 ## 节点功能
@@ -18,7 +18,7 @@
 
 ## 内置 API
 
-- 地址：`https://api.seedance.nz/v1/chat/completions`
+- 地址：`https://api.aitudou.net/v1/chat/completions`
 - 模型：`deepseek/deepseek-v4-flash`
 
 API Key 可以填写在节点中，也可以通过环境变量 `SEEDANCE_API_KEY` 或 `TD_H3_API_KEY` 提供。
